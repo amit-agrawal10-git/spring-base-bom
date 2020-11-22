@@ -27,7 +27,7 @@ jobs:
             - run:
                 name: Clone Base Bom Repo
                 command: >-
-                    git clone https://github.com/amit-agrawal10-git/spring-base-bom.git
+                    git clone https://github.com/amit-agrawal10-git/spring-base-bom.git ~/spring-base-bom
 
 
             # Download and cache dependencies

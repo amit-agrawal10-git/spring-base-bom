@@ -46,7 +46,7 @@
         <mysql.connector.version>8.0.21</mysql.connector.version>
         <spring.ssm.version>2.2.0.RELEASE</spring.ssm.version>
         <spring-cloud.version>Hoxton.SR8</spring-cloud.version>
-        <arango.db.version>1.0.3</arango.db.version>
+        <arango.db.version>2.3.3.RELEASE</arango.db.version>
         <docker.image.prefix>amitagrawal10</docker.image.prefix>
         <docker.image.name>${project.artifactId}</docker.image.name>
     </properties>
